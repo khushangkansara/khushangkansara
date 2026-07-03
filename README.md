@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there!!!
+Welcome to kansara's Git
 
-<!--
-**khushangkansara/khushangkansara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Khushang Kansara
 
-Here are some ideas to get you started:
+🎓 MSc IT Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☁️ Aspiring Cloud & DevOps Engineer
+
+💻 Currently Learning and Building Projects
+
+## 🌱 Currently Learning
+- AWS Cloud
+- Linux
+- Git & GitHub
+- Docker
+
+## 🚀 Goals for 2026
+- ✅ AWS Cloud Practitioner Certification
+- 🚀 Build Cloud & DevOps Projects
+- 💼 Secure a Cloud/DevOps Internship
+
+## 📫 Connect with Me
+- Email: (kansarakhushang61@gmail.com)
+
