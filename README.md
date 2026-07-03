@@ -1,5 +1,4 @@
-## Hi there!!!
-Welcome to kansara's Git
+
 
 # Hi 👋 I'm Khushang Kansara
 
@@ -7,13 +6,14 @@ Welcome to kansara's Git
 
 ☁️ Aspiring Cloud & DevOps Engineer
 
-💻 Currently Learning and Building Projects
+💻 Continuously Learning new technologies  and Building Projects
 
-## 🌱 Currently Learning
+## 🌱 Passionate about
 - AWS Cloud
 - Linux
 - Git & GitHub
 - Docker
+- Terraform (Soon)
 
 ## 🚀 Goals for 2026
 - ✅ AWS Cloud Practitioner Certification
